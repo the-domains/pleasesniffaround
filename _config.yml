@@ -1,0 +1,28 @@
+name: Pleasesniffaround
+favicon: null
+layout_spectrum: 0.1756132177542895
+typography_spectrum: 0.8235999024473131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5663981467951089
+  lightness: 0.8922241530381143
+  saturation: 0.5462319846265018
+  rhythmicContrast: 0.30622190283611417
+purpose: []
